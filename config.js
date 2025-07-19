@@ -19,7 +19,7 @@
  * 2. Vá em Arquivo > Publicar na web
  * 3. Selecione a aba específica que deseja publicar
  * 4. Escolha o formato CSV
- * 5. Copie a URL gerada
+ * 5. Copie a URL gerad
  */
 
 // URL of the spreadsheet with menu items (tab: Items)
